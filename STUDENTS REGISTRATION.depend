@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1784495933 source:c:\users\kymos\onedrive\desktop\group 1-project\students registration\main.cpp
+	<iostream>
+	<limits>
+	"StudentManager.h"
+	"CourseManager.h"
+	"RegistrationManager.h"
+	<fstream>
+
+1784068712 c:\users\kymos\onedrive\desktop\group 1-project\students registration\include\studentmanager.h
+	<vector>
+	"Student.h"
+
+1784064516 c:\users\kymos\onedrive\desktop\group 1-project\students registration\include\student.h
+	<iostream>
+	<string>
+
+1784397132 source:c:\users\kymos\onedrive\desktop\group 1-project\students registration\src\student.cpp
+	"Student.h"
+
+1784511057 source:c:\users\kymos\onedrive\desktop\group 1-project\students registration\src\studentmanager.cpp
+	"StudentManager.h"
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<limits>
+
+1784068714 c:\users\kymos\onedrive\desktop\group 1-project\students registration\include\coursemanager.h
+	<vector>
+	"Courses.h"
+
+1784260858 c:\users\kymos\onedrive\desktop\group 1-project\students registration\include\courses.h
+	<string>
+
+1784064516 source:c:\users\kymos\onedrive\desktop\group 1-project\students registration\src\courses.cpp
+	"Courses.h"
+	<iostream>
+
+1784495934 source:c:\users\kymos\onedrive\desktop\group 1-project\students registration\src\coursemanager.cpp
+	"CourseManager.h"
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<limits>
+
+1784064516 source:c:\users\kymos\onedrive\desktop\group 1-project\students registration\src\registration.cpp
+	"Registration.h"
+	<iostream>
+
+1784064516 c:\users\kymos\onedrive\desktop\group 1-project\students registration\include\registration.h
+	<string>
+
+1784511057 source:c:\users\kymos\onedrive\desktop\group 1-project\students registration\src\registrationmanager.cpp
+	"RegistrationManager.h"
+	<iostream>
+	<fstream>
+	<limits>
+	<algorithm>
+
+1784068712 c:\users\kymos\onedrive\desktop\group 1-project\students registration\include\registrationmanager.h
+	<vector>
+	"Registration.h"
+	"StudentManager.h"
+	"CourseManager.h"
+
+1784066751 source:c:\users\hp\desktop\group 1-project\students registration\main.cpp
+	<iostream>
+	<limits>
+	"StudentManager.h"
+	"CourseManager.h"
+	"RegistrationManager.h"
+	"WindowsGUI.h"
+	<fstream>
+
+1784068711 c:\users\hp\desktop\group 1-project\students registration\include\studentmanager.h
+	<vector>
+	"Student.h"
+
+1784064514 c:\users\hp\desktop\group 1-project\students registration\include\student.h
+	<iostream>
+	<string>
+
+1784068712 c:\users\hp\desktop\group 1-project\students registration\include\coursemanager.h
+	<vector>
+	"Courses.h"
+
+1784064514 c:\users\hp\desktop\group 1-project\students registration\include\courses.h
+	<string>
+
+1784068711 c:\users\hp\desktop\group 1-project\students registration\include\registrationmanager.h
+	<vector>
+	"Registration.h"
+	"StudentManager.h"
+	"CourseManager.h"
+
+1784064514 c:\users\hp\desktop\group 1-project\students registration\include\registration.h
+	<string>
+
+1784068711 source:c:\users\hp\desktop\group 1-project\students registration\src\coursemanager.cpp
+	"CourseManager.h"
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<limits>
+
+1784064514 source:c:\users\hp\desktop\group 1-project\students registration\src\courses.cpp
+	"Courses.h"
+	<iostream>
+
+1784064514 source:c:\users\hp\desktop\group 1-project\students registration\src\registration.cpp
+	"Registration.h"
+	<iostream>
+
+1784068712 source:c:\users\hp\desktop\group 1-project\students registration\src\registrationmanager.cpp
+	"RegistrationManager.h"
+	<iostream>
+	<fstream>
+	<limits>
+	<algorithm>
+
+1784064514 source:c:\users\hp\desktop\group 1-project\students registration\src\student.cpp
+	"Student.h"
+
+1784068711 source:c:\users\hp\desktop\group 1-project\students registration\src\studentmanager.cpp
+	"StudentManager.h"
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<limits>
+
+1784066719 c:\users\hp\desktop\group 1-project\students registration\windowsgui.h
+	<windows.h>
+	<string>
+
